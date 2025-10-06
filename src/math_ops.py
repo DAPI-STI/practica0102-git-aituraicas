@@ -11,5 +11,5 @@ def add(a: float, b: float) -> float:
     >>> add(-1, 1)
     0
     """
-    # TODO: Implementa la función sumando a + b
+    return a+b;
     raise NotImplementedError("Implementa add(a, b)")
